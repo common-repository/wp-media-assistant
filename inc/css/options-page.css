@@ -1,0 +1,45 @@
+.wpma-dash .wp-heading-inline {
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 23px;
+    font-weight: 400;
+    padding: 9px 0 4px 0;
+    line-height: 1.3;
+    color: #23282d;
+}
+
+.wpma-dash h3 {
+    color: #23282d;
+    font-weight: 400;
+}
+
+.wpma-dash .notice {
+    margin-left: 0;
+}
+
+
+.wpma-basic-infos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.wpma-basic-info-stat {
+    text-align: center;
+}
+
+.wpma-basic-info-number {
+    font-size: 3rem;
+    color: #191e23;
+    font-weight: bold;
+    margin: 0 !important;
+}
+
+.wpma-basic-info-text {
+    color: #82878c;
+    font-size: 15px;
+}
+
+.wpma-charts-infos {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
